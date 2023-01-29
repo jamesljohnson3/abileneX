@@ -7,7 +7,7 @@
     <img src="public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">AbileneX</h3>
+<h3 align="centera">AbileneX</h3>
 
   <p align="center">
     The Revolutionary Idea Feedback Tool
